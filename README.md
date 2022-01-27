@@ -5,7 +5,7 @@
 </p>
 
 # Joao Paulo Cezario
-<sub>*Formado em Engenharia de Computação* e pesquisador de Ciências de Dados Center</sub>
+<sub> *Formado em Engenharia de Computação* e pesquisador de Ciências de Dados</sub>
 
 Engenheiro de dados é o profissional que, a partir de linguagens da ciência da computação, executa as tarefas como dar uma utilidade prática à grande quantidade de informação disponível.
 
