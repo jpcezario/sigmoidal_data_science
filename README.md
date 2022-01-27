@@ -5,17 +5,23 @@
 </p>
 
 # Joao Paulo Cezario
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Formado em Engenharia de Computação* e pesquisador de Ciências de Dados Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Engenheiro de dados é o profissional que, a partir de linguagens da ciência da computação, executa as tarefas como dar uma utilidade prática à grande quantidade de informação disponível.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Mais do que conhecer linguagens como: Java, Scala e Python, entre outras, ele deve dominar amplamente toda a lógica e complexidade por trás de conceitos como big data e computação em nuvem.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+A partir desses conhecimentos, o engenheiro de dados concebe, constrói e testa arquiteturas de sistemas de processamento de dados, sendo responsável pelas soluções de aquisição de dados e de combinação de fontes de dados.
+
+A partir daí, o engenheiro cria o pipeline de dados, ou seja, o processo pelo qual a informação passa, incluindo a entrada no sistema, o processamento e o armazenamento, de modo a facilitar a consulta posterior.
+
+É importante que o engenheiro de dados tenha também conhecimentos sobre análise preditiva e prescritiva, para facilitar ao máximo o trabalho que vem depois. 
+
+**Conhecimentos:** Python, Machine Learning, Java.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/carlosfab) 
 * [Medium](https://www.medium.com)
 
 
