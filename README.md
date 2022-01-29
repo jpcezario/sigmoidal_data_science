@@ -20,9 +20,9 @@ A partir daí, o engenheiro cria o pipeline de dados, ou seja, o processo pelo q
 **Conhecimentos:** Python, Machine Learning, Java.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab) 
+* [LinkedIn](https://www.linkedin.com/in/jpcezario 
 * [Medium](https://www.medium.com)
+* [Blog](http://sigmoidal.ai)
 
 
 ## Projetos:
